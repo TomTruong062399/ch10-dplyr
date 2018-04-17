@@ -56,5 +56,5 @@ summary <- flights %>%
     avg_time = mean(gain_in_air, na.rm = TRUE),
     min_time = min(gain_in_air, na.rm = TRUE),
     max_time = max(gain_in_air, na.rm =TRUE)
-  )
+  ) 
 
