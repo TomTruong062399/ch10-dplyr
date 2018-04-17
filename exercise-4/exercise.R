@@ -57,3 +57,4 @@ summary <- flights %>%
     min_time = min(gain_in_air, na.rm = TRUE),
     max_time = max(gain_in_air, na.rm =TRUE)
   )
+
